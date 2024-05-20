@@ -10,7 +10,7 @@ const assert = chai.assert
 /* ----------------------------------------------------- */
 // Resources:
 // expect Documentation: https://www.chaijs.com/api/bdd/
-// assert Documntation: https://www.chaijs.com/api/assert/
+// assert Documentation: https://www.chaijs.com/api/assert/
 //
 // assert is very similar to how you use expect, but offers
 // extra ways to test.
@@ -62,3 +62,4 @@ describe('JS6 Lab Tests:', () => {
   })
   /*--------------------------NEW TESTS BELOW-------------------------------*/
 })
+console.log(addTwoNumbers(2,3))
